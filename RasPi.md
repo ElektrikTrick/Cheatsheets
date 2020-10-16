@@ -54,4 +54,4 @@
   
 <h3>Display the log</h3>
 
-  <code>node-red-log</code>
+  <code>node-red-log</code> 
