@@ -9,6 +9,10 @@
 <h3>Upgrade</h3>
 
   <code>sudo apt-get upgrade</code>
+  
+<h3>Access to raspi-config</h3>
+
+  <code>sudo raspi-config</code>
 
 <h3>Install Node-RED</h3>
 
