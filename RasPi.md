@@ -41,6 +41,16 @@
 <h3>Logout ssh client</h3>
 
   <code>logout</code>
+  
+
+<h3>Startup time</h3>
+
+  <code>uptime -s</code>
+  
+
+<h3>System uptime</h3>
+
+  <code>uptime -p</code>
 
 <h2>Node-RED specific commands (if running as a service)</h2>
 
@@ -58,4 +68,8 @@
   
 <h3>Display the log</h3>
 
-  <code>node-red-log</code> 
+  <code>node-red-log</code>
+  
+<h3>Generate password-hash</h3>
+
+  <code>node-red admin hash-pw</code>
